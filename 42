@@ -1,0 +1,93 @@
+
+    <!doctype html>
+    <html>
+      <head>
+        <title>myblog</title>
+      </head>
+      <body>
+        <div id="app"><div class="Top" data-reactid=".157fqkpl96q" data-react-checksum="-751729771"><div style="width:100%;min-height:1000px;position:fixed;background:white;display:flex;" data-reactid=".157fqkpl96q.0"><div style="margin:auto;margin-top:200px;width:105px;height:105px;background:url(&#x27;/images/gridLoader.svg&#x27;);display:flex;" data-reactid=".157fqkpl96q.0.0"></div></div><div class="header" data-reactid=".157fqkpl96q.1"><div class="titleList" data-reactid=".157fqkpl96q.1.0"><div class="mainTitle" data-reactid=".157fqkpl96q.1.0.0">梦断JS</div><div class="subTitle" data-reactid=".157fqkpl96q.1.0.1">用执着为未来创造无限可能</div><br data-reactid=".157fqkpl96q.1.0.2"/><div class="url" data-reactid=".157fqkpl96q.1.0.3">https://www.10000h.top/2</div></div><div class="catalog" data-reactid=".157fqkpl96q.1.1"><div class="catalogContainer" style="left:0px;" data-reactid=".157fqkpl96q.1.1.0"><span data-reactid=".157fqkpl96q.1.1.0.0"><a href="/" data-reactid=".157fqkpl96q.1.1.0.0.0">主页</a></span></div></div><div class="poly" data-reactid=".157fqkpl96q.1.2"><div class="otherLink" data-reactid=".157fqkpl96q.1.2.0"><a title="我的CSDN博客" href="http://blog.csdn.net/ul646691993" data-reactid=".157fqkpl96q.1.2.0.0"><img src="images/CSDN.png" data-reactid=".157fqkpl96q.1.2.0.0.0"/></a><a title="我的github" href="https://github.com/aircloud" data-reactid=".157fqkpl96q.1.2.0.1"><img src="images/github.png" data-reactid=".157fqkpl96q.1.2.0.1.0"/></a><a title="我的邮箱" href="networknxt@gmail.com" data-reactid=".157fqkpl96q.1.2.0.2"><img src="images/email.png" data-reactid=".157fqkpl96q.1.2.0.2.0"/></a></div><div class="current" data-reactid=".157fqkpl96q.1.2.1"><a href="/" data-reactid=".157fqkpl96q.1.2.1.0">主页</a><span data-reactid=".157fqkpl96q.1.2.1.1"> &gt; </span><span data-reactid=".157fqkpl96q.1.2.1.2">服务端操作系统研究</span></div></div></div><div class="mainContainer" data-reactid=".157fqkpl96q.2"><div class="profile" data-reactid=".157fqkpl96q.2.0"><div class="myProfile" data-reactid=".157fqkpl96q.2.0.0"><img class="myPhoto" src="images/me.jpg" data-reactid=".157fqkpl96q.2.0.0.0"/><p class="myName" data-reactid=".157fqkpl96q.2.0.0.1">XT.N</p><p class="myInfo" data-reactid=".157fqkpl96q.2.0.0.2"><span data-reactid=".157fqkpl96q.2.0.0.2.0">一个热爱开源、热爱web开发、热爱设计的即将毕业于ZJU目前还没找到工作的工科狗。</span><br data-reactid=".157fqkpl96q.2.0.0.2.1"/><span data-reactid=".157fqkpl96q.2.0.0.2.2">和1.0相比，这个版本的个人博客采用了服务端渲染，代码完全重构，采用react+redux+webpack完成，业务逻辑不算复杂，重在学习方法。</span></p><div class="otherLinks" data-reactid=".157fqkpl96q.2.0.0.3"><div class="linksTitle" data-reactid=".157fqkpl96q.2.0.0.3.0">相关链接</div><div class="LinksGroup" data-reactid=".157fqkpl96q.2.0.0.3.1"><p class="certainLink" data-reactid=".157fqkpl96q.2.0.0.3.1.0"><a data-reactid=".157fqkpl96q.2.0.0.3.1.0.0">我的博客1.0版</a></p><p class="certainLink" data-reactid=".157fqkpl96q.2.0.0.3.1.1"><a data-reactid=".157fqkpl96q.2.0.0.3.1.1.0">webgl开源obj加载器</a></p><p class="certainLink" data-reactid=".157fqkpl96q.2.0.0.3.1.2"><a data-reactid=".157fqkpl96q.2.0.0.3.1.2.0">NACO</a></p><p class="certainLink" data-reactid=".157fqkpl96q.2.0.0.3.1.3"><a data-reactid=".157fqkpl96q.2.0.0.3.1.3.0">gkrbox</a></p></div></div><div class="moreContact" data-reactid=".157fqkpl96q.2.0.0.4"><p data-reactid=".157fqkpl96q.2.0.0.4.0">欢迎进一步联系:</p><p data-reactid=".157fqkpl96q.2.0.0.4.1">networkgmail.com</p></div></div></div><div class="mainList" data-reactid=".157fqkpl96q.2.1"><div class="Article_titleList" data-reactid=".157fqkpl96q.2.1.0"><div class="Article_title" data-reactid=".157fqkpl96q.2.1.0.0">服务端操作系统研究</div><div class="Article_number" data-reactid=".157fqkpl96q.2.1.0.1">3112浏览</div></div><div class="Article_navigation" data-reactid=".157fqkpl96q.2.1.1"><a class="Article_last" href="/41" data-reactid=".157fqkpl96q.2.1.1.0"><span data-reactid=".157fqkpl96q.2.1.1.0.0">上一篇:</span><span data-reactid=".157fqkpl96q.2.1.1.0.1">js闭包的一个典型应用场景</span></a><div class="Article_time" data-reactid=".157fqkpl96q.2.1.1.1">12/3/2016, 3:19:13 PM</div><a class="Article_next" href="/43" data-reactid=".157fqkpl96q.2.1.1.2"><span data-reactid=".157fqkpl96q.2.1.1.2.0">下一篇:</span><span data-reactid=".157fqkpl96q.2.1.1.2.1">JS的静态作用域、子程序引用环境与参数传递类型</span></a></div><div class="mainArticle" data-reactid=".157fqkpl96q.2.1.2"><p>本篇文章主要介绍windows、Linux和unix三大操作系统在服务端的运用以及各自的优缺点，并且对Linux下的多种发行版进行简单的分析。</p>
+<h3 id="-">操作系统在客户端和服务器端的区别</h3>
+<p>我认为在安装上面服务器操作系统和个人电脑操作系统没有明显的区别，但是操作系统一般会针对服务器和客户端有不同的版本。和客户端相比拥有不同的版本特性。</p>
+<h3 id="-">三个操作系统的发展</h3>
+<p>windows属于微软，其中WINNT Server可以说开了直观、稳定、安全的服务器平台的先河，之后基于NT技术推出了Win2000/Advanced Server，功能大幅度提升，但是稳定性和安全性不足。经过改良后，推出Win2003/Advanced Server，之后经过几代发展，现在已经推出windows 10的服务器版本Windows Server 2016.</p>
+<p>Linux的编写受到了unix的启发，但是具有独立的知识产权。一般我们会把Linux和unix并列，或者称之为类unix，而Linux和UNIX的最大的区别是，前者是开发源代码的自由软件，而后者是对源代码实行知识产权保护的传统商业软件。这里我们并不把Linux归入unix。</p>
+<p> <img src="https://www.10000h.top/images/data_img/c22.jpg" alt=""></p>
+<p>另外，早起还有Netware服务器操作系统，发展较早，由于多种原因在目前的社会中已经渐渐不再使用，因此本文也不对其进行过多介绍。</p>
+<p>下图是本文涉及到的几类操作系统:</p>
+<p><img src="https://www.10000h.top/images/data_img/c11.png" alt=""></p>
+<h3 id="windows-server">windows Server</h3>
+<p>微软最近发布的几款操作系统(2000年后)主要有Windows Server 2003，Windows Server 2008，Windows Server 2008 R2，Windows Server 2012，Windows Server 2012 R2，Windows Server 2016。</p>
+<p>windows Server是目前市场上最主流的服务器，根据调查，目前windows server的市场份额有30%之多(来自wikipedia 2016.02)，而这也得益于windows的一些优点：</p>
+<ul>
+<li>操作上手简单，有图形用户界面。</li>
+<li>方便的用户权限配置和管理。</li>
+<li>非常方便的安装补丁、驱动。</li>
+<li>一些配套服务(如邮件服务、打印服务)的配置较为方便</li>
+<li>相对稳定，并且由于收费，可以得到微软官方的支持</li>
+</ul>
+<p>当然，现在windows server的用户并不如Linux多，而且由于不开源，相关解决方案也少很多，并且自身的故障排查日志系统也饱受诟病。</p>
+<h3 id="unix-">unix服务器操作系统</h3>
+<p>Unix服务器操作系统，主要支持大型的文件系统服务、数据服务等应用。但是只在服务器厂商生产的高端服务器产品中支持Unix操作系统应用，因此SUN Solaris、IBM-AIX都是定位于高端服务器操作系统市场的。<br><strong>unix操作系统本身并不开源</strong>，一些大的公司在取得unix许可证之后，往往会开发出自己的类unix产品，比如IBM的AIX、HP的HP-UX、SCO的Openserver、SUN的Solaris（被Oracle收购）和SGI的IRIX</p>
+<p>Unix系统优点：系统的安全性与稳定性足够优秀，能够支持大型文件系统与数据库系统，对于系统应用软件方面支持比较完善。</p>
+<p>缺点：所有操作都需要输入代码式的命令进行操作，人性化方面非常差，使其在中低端服务器市场发展难上加难，技术未得到广泛的推广，相关维护费用较高。</p>
+<p>总结：Unix却蕴藏着一定的商机，在用户需求的推动下，在IBM、惠普、SUN等主要厂商的技术进步过程中，相信未来5至10年内，Unix市场仍然会是一片广阔的发展天地。</p>
+<h3 id="linux-">Linux服务端操作系统</h3>
+<p>Linux服务端操作系统是目前用户数量最广，社区最活跃的一类操作系统，每天都有数以万计的程序员为其贡献代码、服务、软件和解决方案。拥有良好的生态系统。</p>
+<p>相对于windows来说，Linux没有必须的图形用户界面，也可以做到更轻量，并且被认为比Windows Server更快，并且由于开源可定制，被很多大公司所采用。</p>
+<p>Linux服务器操作系统主要包括Debian系列(包括以其为基础的ubuntu)，Redhat系列(包括centOS和RHEL)，CoreOS(最早支持docker，并且目前仍然是对docker支持最高的)，SUSE Linux系列，Gentoo等。</p>
+<p>Linux服务端操作系统最为著名的当算RedHat旗下发行的操作系统，付费版的RHEL和免费克隆版的centOS，和Debian系相比，笔者认为RedHat有更多的好处，这主要表现在：</p>
+<p>1、CentOS/RHEL的生命周期是7年(甚至更长)，基本上可以覆盖硬件的生命周期，也就意味着一个新硬件安装以后，不用再次安装操作系统。要知道重新折腾一个生产机是很麻烦而且有风险的事情。<br>2、RedHat是一个值得尊敬的开源公司，长期以来Linux内核RedHat的贡献程度都是最多的。可以这么说，如果一个Linux方面的问题，RedHat搞不定，那么也很少有其他公司可以搞定了。<br>3、CentOS/RHEL对硬件的支持很好，主流硬件厂商早就将服务器拿过去测试，一般不存在硬件的兼容性问题。<br>4、大量商业软件，比如 Oracle ，都是针对 Redhat认证的，有大量的帮助文档和使用说明，有良好的技术支持。出了问题，也容易在网上找到类似的答案和经验。</p>
+<p>当然，对于以上优点并不是说Debian系列都做的不好，Debian目前在支持的生命周期上也有所改善（LTS),并且也拥有更新速度较快的一些优点。</p>
+<h3 id="-linux-">为什么我选择Linux服务器</h3>
+<p>以上是对三种操作系统在服务端应用的一个简单介绍，而本人算是Linux阵营的一个忠实用户，对操作系统的选用虽然见仁见智，但是在这里我还是提及一下有关Linux作为服务器的几个优点：</p>
+<p>1.Linux更加轻便简洁。Linux的核心就是kernel，提供了网络，时钟，内存，cpu，文件系统，存储的管理。大多数Linux系统，内核都是差不多的，而包装千变万化。根据不同的需求，可以封装成不同的ISO，偏向于web的，偏向于存储的，偏向于网络的，偏向于虚拟机的，偏向于大数据的，你甚至可以根据不同的应用场景做不同的优化</p>
+<p>2.总体来讲，Linux的一切皆文件的设计还有很有优势的，当你要部署某个服务的时候，只需要安装服务，然后修改配置文件，然后重启服务，就可以用了。比如Apache，nfs，ftp，Samba，mail......</p>
+<p>3.Linux可以很多人共同登录进一个服务器里工作。</p>
+<p>4.Linux没有注册表之类的东西，磁盘碎片会少很多，不会像windows那样用着用着就会越来越卡。Linux的kernel也更加稳定些，没有windows那么容易panic，系统对资源的消耗会小很多。</p>
+<p>5.用Linux的时候，会更容易对操作系统有一个清晰的轮廓。</p>
+<p>6.集群部署更加方便。</p>
+<p>以上几点可能是windows没有Linux方便的地方。</p>
+<h3 id="linux-coreos">Linux的后起之秀：CoreOS</h3>
+<p>在这里，我通过对CoreOS的分析，来具体的实例分析Linux，并且也通过对CoreOS的分析，来展望现在甚至之后的Linux技术。</p>
+<p>CoreOS相比于一般的Linux系统，作出了如下改变：</p>
+<ul>
+<li>去掉了包管理器，没有apt-get,yum，所以即使安装gcc，也需要用到容器技术</li>
+<li>去掉了非必需的运行环境，如python，perl和内核头文件</li>
+<li><p>去掉了非必需的驱动和运行库udev,grub,X11</p>
+</li>
+<li><p>增加了容器和相关文件的驱动：docker、rkt、btrfs、xfs</p>
+</li>
+<li>增加了集群管理的专属工具：fleet、etcd、flannel、kubelet，也就是说，在操作系统层级定制了集群管理，OS is a service是它的一个理念。</li>
+<li>最新的内核和安全组件：kernel-4.1.SE Linux</li>
+<li>自动升级组件：update——engine,locksmith，CoreOS通过docker容器技术来隔离应用，并且将系统分区设置为只读，并没有很强的Linux的版本切换概念，可以做到自动平滑升级。</li>
+<li>云环境初始化组件：coreos-cloudinit</li>
+</ul>
+<p>另外CoreOS拥有无限的版本升级，正如下文：</p>
+<p><img src="https://www.10000h.top/images/data_img/c33.png" alt=""></p>
+<p>之所以能够做到无限的版本升级，是因为CoreOS<strong>通过内置容器服务解决用户的软件运行环境与系统的强耦合</strong> , 另外并且设置<strong>只读的系统分区</strong>，解决了用户增加、删除、修改的系统文件。</p>
+<p>总而言之，CoreOS是一个非常有特点的Linux版本，有的人说，如果说Docker是下一代的虚拟机,那CoreOS就应该是下一代的服务器，在这里笔者也认为，CoreOS目前发展良好，理念先进，值得尝试。</p>
+<h3 id="-">总结</h3>
+<p>以上就是这次调研的所有内容。 </p>
+<p>其实虽然我做了这次调研，对于不同操作系统的认知还是停留在概念阶段或者和操作系统核心关系较远的软件阶段，虽然可以做到不人云亦云，但是也很难形成自己的一套完整的观点。不过经过这次调研，自己对这个方面了解更多了，收获丰富。</p>
+<p>参考：</p>
+<p>wikipedia： 
+<a href="https://zh.wikipedia.org/wiki/Microsoft_Windows%E7%9A%84%E5%8E%86%E5%8F%B2#Windows_Server_2003">https://zh.wikipedia.org/wiki/Microsoft_Windows%E7%9A%84%E5%8E%86%E5%8F%B2#Windows_Server_2003</a>
+<a href="https://zh.wikipedia.org/wiki/UNIX">https://zh.wikipedia.org/wiki/UNIX</a>
+<a href="https://zh.wikipedia.org/wiki/BSD">https://zh.wikipedia.org/wiki/BSD</a>
+<a href="https://zh.wikipedia.org/wiki/Windows_Server_2016">https://zh.wikipedia.org/wiki/Windows_Server_2016</a>
+<a href="https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Servers_on_the_Internet">https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Servers_on_the_Internet</a></p>
+<p>ubuntu：<br><a href="https://www.ubuntu.com/about/about-ubuntu/ubuntu-and-debian">https://www.ubuntu.com/about/about-ubuntu/ubuntu-and-debian</a>   </p>
+<p>CoreOS：<br><a href="https://coreos.com">https://coreos.com</a></p>
+<p>知乎：<br>彭勇的回答，链接<a href="https://www.zhihu.com/question/19599986">https://www.zhihu.com/question/19599986</a><br>陈硕、胡子的回答，链接<a href="https://www.zhihu.com/question/19738282">https://www.zhihu.com/question/19738282</a><br>留小鱼：<a href="https://www.zhihu.com/question/39230864/answer/80601705">https://www.zhihu.com/question/39230864/answer/80601705</a></p>
+<p>百度百科：<br><a href="http://baike.baidu.com/view/3456294.htm">http://baike.baidu.com/view/3456294.htm</a></p>
+<p>51cto:<br><a href="http://os.51cto.com/art/201305/392455.htm">http://os.51cto.com/art/201305/392455.htm</a></p>
+<p>全球容器技术大会<br>相关演讲、ppt以及其他资料</p>
+<p>2016云栖大会<br>相关主题演讲和新闻资料</p>
+</div></div></div></div></div>
+        <script>
+          window.__INITIAL_STATE__ = {"certainArticle":{"item":{"title":"服务端操作系统研究","time":"12/3/2016, 3:19:13 PM","content":"<p>本篇文章主要介绍windows、Linux和unix三大操作系统在服务端的运用以及各自的优缺点，并且对Linux下的多种发行版进行简单的分析。</p>\n<h3 id=\"-\">操作系统在客户端和服务器端的区别</h3>\n<p>我认为在安装上面服务器操作系统和个人电脑操作系统没有明显的区别，但是操作系统一般会针对服务器和客户端有不同的版本。和客户端相比拥有不同的版本特性。</p>\n<h3 id=\"-\">三个操作系统的发展</h3>\n<p>windows属于微软，其中WINNT Server可以说开了直观、稳定、安全的服务器平台的先河，之后基于NT技术推出了Win2000/Advanced Server，功能大幅度提升，但是稳定性和安全性不足。经过改良后，推出Win2003/Advanced Server，之后经过几代发展，现在已经推出windows 10的服务器版本Windows Server 2016.</p>\n<p>Linux的编写受到了unix的启发，但是具有独立的知识产权。一般我们会把Linux和unix并列，或者称之为类unix，而Linux和UNIX的最大的区别是，前者是开发源代码的自由软件，而后者是对源代码实行知识产权保护的传统商业软件。这里我们并不把Linux归入unix。</p>\n<p> <img src=\"https://www.10000h.top/images/data_img/c22.jpg\" alt=\"\"></p>\n<p>另外，早起还有Netware服务器操作系统，发展较早，由于多种原因在目前的社会中已经渐渐不再使用，因此本文也不对其进行过多介绍。</p>\n<p>下图是本文涉及到的几类操作系统:</p>\n<p><img src=\"https://www.10000h.top/images/data_img/c11.png\" alt=\"\"></p>\n<h3 id=\"windows-server\">windows Server</h3>\n<p>微软最近发布的几款操作系统(2000年后)主要有Windows Server 2003，Windows Server 2008，Windows Server 2008 R2，Windows Server 2012，Windows Server 2012 R2，Windows Server 2016。</p>\n<p>windows Server是目前市场上最主流的服务器，根据调查，目前windows server的市场份额有30%之多(来自wikipedia 2016.02)，而这也得益于windows的一些优点：</p>\n<ul>\n<li>操作上手简单，有图形用户界面。</li>\n<li>方便的用户权限配置和管理。</li>\n<li>非常方便的安装补丁、驱动。</li>\n<li>一些配套服务(如邮件服务、打印服务)的配置较为方便</li>\n<li>相对稳定，并且由于收费，可以得到微软官方的支持</li>\n</ul>\n<p>当然，现在windows server的用户并不如Linux多，而且由于不开源，相关解决方案也少很多，并且自身的故障排查日志系统也饱受诟病。</p>\n<h3 id=\"unix-\">unix服务器操作系统</h3>\n<p>Unix服务器操作系统，主要支持大型的文件系统服务、数据服务等应用。但是只在服务器厂商生产的高端服务器产品中支持Unix操作系统应用，因此SUN Solaris、IBM-AIX都是定位于高端服务器操作系统市场的。<br><strong>unix操作系统本身并不开源</strong>，一些大的公司在取得unix许可证之后，往往会开发出自己的类unix产品，比如IBM的AIX、HP的HP-UX、SCO的Openserver、SUN的Solaris（被Oracle收购）和SGI的IRIX</p>\n<p>Unix系统优点：系统的安全性与稳定性足够优秀，能够支持大型文件系统与数据库系统，对于系统应用软件方面支持比较完善。</p>\n<p>缺点：所有操作都需要输入代码式的命令进行操作，人性化方面非常差，使其在中低端服务器市场发展难上加难，技术未得到广泛的推广，相关维护费用较高。</p>\n<p>总结：Unix却蕴藏着一定的商机，在用户需求的推动下，在IBM、惠普、SUN等主要厂商的技术进步过程中，相信未来5至10年内，Unix市场仍然会是一片广阔的发展天地。</p>\n<h3 id=\"linux-\">Linux服务端操作系统</h3>\n<p>Linux服务端操作系统是目前用户数量最广，社区最活跃的一类操作系统，每天都有数以万计的程序员为其贡献代码、服务、软件和解决方案。拥有良好的生态系统。</p>\n<p>相对于windows来说，Linux没有必须的图形用户界面，也可以做到更轻量，并且被认为比Windows Server更快，并且由于开源可定制，被很多大公司所采用。</p>\n<p>Linux服务器操作系统主要包括Debian系列(包括以其为基础的ubuntu)，Redhat系列(包括centOS和RHEL)，CoreOS(最早支持docker，并且目前仍然是对docker支持最高的)，SUSE Linux系列，Gentoo等。</p>\n<p>Linux服务端操作系统最为著名的当算RedHat旗下发行的操作系统，付费版的RHEL和免费克隆版的centOS，和Debian系相比，笔者认为RedHat有更多的好处，这主要表现在：</p>\n<p>1、CentOS/RHEL的生命周期是7年(甚至更长)，基本上可以覆盖硬件的生命周期，也就意味着一个新硬件安装以后，不用再次安装操作系统。要知道重新折腾一个生产机是很麻烦而且有风险的事情。<br>2、RedHat是一个值得尊敬的开源公司，长期以来Linux内核RedHat的贡献程度都是最多的。可以这么说，如果一个Linux方面的问题，RedHat搞不定，那么也很少有其他公司可以搞定了。<br>3、CentOS/RHEL对硬件的支持很好，主流硬件厂商早就将服务器拿过去测试，一般不存在硬件的兼容性问题。<br>4、大量商业软件，比如 Oracle ，都是针对 Redhat认证的，有大量的帮助文档和使用说明，有良好的技术支持。出了问题，也容易在网上找到类似的答案和经验。</p>\n<p>当然，对于以上优点并不是说Debian系列都做的不好，Debian目前在支持的生命周期上也有所改善（LTS),并且也拥有更新速度较快的一些优点。</p>\n<h3 id=\"-linux-\">为什么我选择Linux服务器</h3>\n<p>以上是对三种操作系统在服务端应用的一个简单介绍，而本人算是Linux阵营的一个忠实用户，对操作系统的选用虽然见仁见智，但是在这里我还是提及一下有关Linux作为服务器的几个优点：</p>\n<p>1.Linux更加轻便简洁。Linux的核心就是kernel，提供了网络，时钟，内存，cpu，文件系统，存储的管理。大多数Linux系统，内核都是差不多的，而包装千变万化。根据不同的需求，可以封装成不同的ISO，偏向于web的，偏向于存储的，偏向于网络的，偏向于虚拟机的，偏向于大数据的，你甚至可以根据不同的应用场景做不同的优化</p>\n<p>2.总体来讲，Linux的一切皆文件的设计还有很有优势的，当你要部署某个服务的时候，只需要安装服务，然后修改配置文件，然后重启服务，就可以用了。比如Apache，nfs，ftp，Samba，mail......</p>\n<p>3.Linux可以很多人共同登录进一个服务器里工作。</p>\n<p>4.Linux没有注册表之类的东西，磁盘碎片会少很多，不会像windows那样用着用着就会越来越卡。Linux的kernel也更加稳定些，没有windows那么容易panic，系统对资源的消耗会小很多。</p>\n<p>5.用Linux的时候，会更容易对操作系统有一个清晰的轮廓。</p>\n<p>6.集群部署更加方便。</p>\n<p>以上几点可能是windows没有Linux方便的地方。</p>\n<h3 id=\"linux-coreos\">Linux的后起之秀：CoreOS</h3>\n<p>在这里，我通过对CoreOS的分析，来具体的实例分析Linux，并且也通过对CoreOS的分析，来展望现在甚至之后的Linux技术。</p>\n<p>CoreOS相比于一般的Linux系统，作出了如下改变：</p>\n<ul>\n<li>去掉了包管理器，没有apt-get,yum，所以即使安装gcc，也需要用到容器技术</li>\n<li>去掉了非必需的运行环境，如python，perl和内核头文件</li>\n<li><p>去掉了非必需的驱动和运行库udev,grub,X11</p>\n</li>\n<li><p>增加了容器和相关文件的驱动：docker、rkt、btrfs、xfs</p>\n</li>\n<li>增加了集群管理的专属工具：fleet、etcd、flannel、kubelet，也就是说，在操作系统层级定制了集群管理，OS is a service是它的一个理念。</li>\n<li>最新的内核和安全组件：kernel-4.1.SE Linux</li>\n<li>自动升级组件：update——engine,locksmith，CoreOS通过docker容器技术来隔离应用，并且将系统分区设置为只读，并没有很强的Linux的版本切换概念，可以做到自动平滑升级。</li>\n<li>云环境初始化组件：coreos-cloudinit</li>\n</ul>\n<p>另外CoreOS拥有无限的版本升级，正如下文：</p>\n<p><img src=\"https://www.10000h.top/images/data_img/c33.png\" alt=\"\"></p>\n<p>之所以能够做到无限的版本升级，是因为CoreOS<strong>通过内置容器服务解决用户的软件运行环境与系统的强耦合</strong> , 另外并且设置<strong>只读的系统分区</strong>，解决了用户增加、删除、修改的系统文件。</p>\n<p>总而言之，CoreOS是一个非常有特点的Linux版本，有的人说，如果说Docker是下一代的虚拟机,那CoreOS就应该是下一代的服务器，在这里笔者也认为，CoreOS目前发展良好，理念先进，值得尝试。</p>\n<h3 id=\"-\">总结</h3>\n<p>以上就是这次调研的所有内容。 </p>\n<p>其实虽然我做了这次调研，对于不同操作系统的认知还是停留在概念阶段或者和操作系统核心关系较远的软件阶段，虽然可以做到不人云亦云，但是也很难形成自己的一套完整的观点。不过经过这次调研，自己对这个方面了解更多了，收获丰富。</p>\n<p>参考：</p>\n<p>wikipedia： \n<a href=\"https://zh.wikipedia.org/wiki/Microsoft_Windows%E7%9A%84%E5%8E%86%E5%8F%B2#Windows_Server_2003\">https://zh.wikipedia.org/wiki/Microsoft_Windows%E7%9A%84%E5%8E%86%E5%8F%B2#Windows_Server_2003</a>\n<a href=\"https://zh.wikipedia.org/wiki/UNIX\">https://zh.wikipedia.org/wiki/UNIX</a>\n<a href=\"https://zh.wikipedia.org/wiki/BSD\">https://zh.wikipedia.org/wiki/BSD</a>\n<a href=\"https://zh.wikipedia.org/wiki/Windows_Server_2016\">https://zh.wikipedia.org/wiki/Windows_Server_2016</a>\n<a href=\"https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Servers_on_the_Internet\">https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Servers_on_the_Internet</a></p>\n<p>ubuntu：<br><a href=\"https://www.ubuntu.com/about/about-ubuntu/ubuntu-and-debian\">https://www.ubuntu.com/about/about-ubuntu/ubuntu-and-debian</a>   </p>\n<p>CoreOS：<br><a href=\"https://coreos.com\">https://coreos.com</a></p>\n<p>知乎：<br>彭勇的回答，链接<a href=\"https://www.zhihu.com/question/19599986\">https://www.zhihu.com/question/19599986</a><br>陈硕、胡子的回答，链接<a href=\"https://www.zhihu.com/question/19738282\">https://www.zhihu.com/question/19738282</a><br>留小鱼：<a href=\"https://www.zhihu.com/question/39230864/answer/80601705\">https://www.zhihu.com/question/39230864/answer/80601705</a></p>\n<p>百度百科：<br><a href=\"http://baike.baidu.com/view/3456294.htm\">http://baike.baidu.com/view/3456294.htm</a></p>\n<p>51cto:<br><a href=\"http://os.51cto.com/art/201305/392455.htm\">http://os.51cto.com/art/201305/392455.htm</a></p>\n<p>全球容器技术大会<br>相关演讲、ppt以及其他资料</p>\n<p>2016云栖大会<br>相关主题演讲和新闻资料</p>\n","tag_tran":"操作系统","id":42,"nex":{"title":"JS的静态作用域、子程序引用环境与参数传递类型","id":43},"pre":{"title":"js闭包的一个典型应用场景","id":41}}}}
+        </script>
+        <script src="build2.js"></script>
+      </body>
+    </html>
+    

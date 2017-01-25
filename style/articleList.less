@@ -1,0 +1,567 @@
+@import "variable";
+
+*{
+  margin:0;
+  padding:0;
+  font-family: "Microsoft YaHei";
+}
+
+#root{
+  width: 100%;
+  background: @lightGrey;
+}
+
+li,a{
+  color:@dark
+}
+
+.Top{
+  display: block;
+  width: 100%;
+}
+
+@media (min-width: 1200px) {
+  .header {
+    background: @dark;
+    display: block;
+    height: 232px;
+    .titleList {
+      letter-spacing: 3px;
+      width: 1120px;
+      height: 90px;
+      padding-top: 46px;
+      margin: auto;
+      .mainTitle {
+        font-family: "Microsoft YaHei";
+        color: @titleColor;
+        font-weight: 800;
+        margin-right: 20px;
+        font-size: 32px;
+        display: inline-block;
+      }
+      .subTitle {
+        display: inline-block;
+        font-size: 18px;
+        color: @white;
+      }
+      .url {
+        margin-top: 3px;
+        letter-spacing: 1px;
+        font-size: 18px;
+        color: @grey1;
+      }
+    }
+
+    .w_moment {
+      width: 1120px;
+      height: 150px;
+      margin-top: 5px;
+      float: left;
+      overflow: hidden;
+      margin-right: 25px;
+
+    }
+    .w_moment_main {
+      width: 3000px;
+      display: inline-block;
+      height: 240px;
+      /*padding:20px;*/
+      overflow: hidden;
+      position: relative;
+      right: 0;
+      /*padding-top:10px;*/
+    }
+
+    .w_moment_li {
+      float: left;
+      width: 150px;
+      height: 150px;
+      margin-right: 12px;
+    }
+
+    .catalog {
+      margin: auto;
+      width: 1240px;
+      overflow: hidden;
+      background: @barColor;
+      height: 18px;
+      padding-top: 13px;
+      padding-bottom: 15px;
+      .catalogContainer {
+        position: relative;
+        right: 0;
+        width: 10000px;
+        height: 18px;
+        span {
+          a {
+            color: @grey1;
+            text-decoration: none;
+            webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+          }
+          a:hover {
+            color: @lightGrey;
+            cursor: pointer;
+          }
+          float: left;
+          padding-left: 20px;
+          color: @lightGrey;
+          margin-right: 20px;
+        }
+      }
+
+    }
+    .poly {
+      margin: auto;
+      width: 1240px;
+      display: flex;
+      .otherLink {
+        background: @lightGreen;
+        width: 280px;
+        height: 50px;
+        a {
+          float: left;
+          img {
+            opacity: 0.8;
+            margin: 14px 0 14px 20px;
+            width: 22px;
+          }
+        }
+      }
+      .current {
+        color: @grey1;
+        background: @white;
+        flex: 1;
+        height: 54px;
+        padding: 15px 18px;
+        border-right: 1px solid @lightGrey;
+        a {
+          text-decoration: none;
+          color: @grey1;
+        }
+      }
+    }
+  }
+
+  .mainContainer {
+    width: 1240px;
+    min-height: 700px;
+    margin: auto;
+    margin-bottom: 40px;
+    display: flex;
+    .profile {
+      width: 280px;
+      background: @lightGrey;
+    }
+    .mainList {
+      border-right: 1px solid @lightGrey;
+      border-bottom: 1px solid @lightGrey;
+      flex: 1;
+      padding-left: 18px;
+      padding-right: 15px;
+      padding-bottom: 20px;
+      .yearList {
+        margin-top: 20px;
+        margin-bottom: 12px;
+        img {
+          position: relative;
+          top: 1px;
+          width: 18px;
+          height: 18px;
+          margin-right: 5px;
+          display: inline-block;
+        }
+        h4 {
+          display: inline-block;
+          color: @dark;
+          font-size: 18px;
+        }
+      }
+      .certainList {
+        border-bottom: 1px solid @borderDark;
+        border-top: 1px solid @borderDark;
+        li {
+          list-style: none;
+          height: 60px;
+          a {
+            margin-top: 18px;
+            margin-bottom: 18px;
+            float: left;
+            font-size: 18px;
+            text-decoration: none;
+          }
+          a:visited {
+            text-decoration: none;
+          }
+          a:hover {
+            color: @lightDark;
+            cursor: pointer;
+          }
+          span {
+            float: right;
+            margin-top: 22px;
+            margin-bottom: 18px;
+            font-size: 14px;
+            color: @borderDark;
+          }
+          border-bottom: 1px solid @lightGrey;
+          width: 880px;
+          margin: auto;
+          display: block;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 700px) and (max-width: 1200px){
+  .header {
+    background: @dark;
+    display: block;
+    height: 212px;
+    .titleList {
+      letter-spacing: 3px;
+      width: 100%;
+      height: 90px;
+      padding-top: 26px;
+      margin: auto;
+      .mainTitle {
+        font-family: "Microsoft YaHei";
+        color: @titleColor;
+        font-weight: 800;
+        margin-right: 20px;
+        margin-left: 20px;
+        font-size: 32px;
+        display: inline-block;
+      }
+      .subTitle {
+        display: inline-block;
+        font-size: 18px;
+        color: @white;
+      }
+      .url {
+        margin-left: 20px;
+        margin-top: 3px;
+        letter-spacing: 1px;
+        font-size: 18px;
+        color: @grey1;
+      }
+    }
+
+    .catalog {
+      margin: auto;
+      width: 100%;
+      overflow: hidden;
+      background: @barColor;
+      height: 18px;
+      padding-top: 13px;
+      padding-bottom: 15px;
+      .catalogContainer {
+        position: relative;
+        right: 0;
+        width: 10000px;
+        height: 18px;
+        span {
+          a {
+            color: @grey1;
+            text-decoration: none;
+            webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+          }
+          a:hover {
+            color: @lightGrey;
+            cursor: pointer;
+          }
+          float: left;
+          padding-left: 20px;
+          color: @lightGrey;
+          margin-right: 20px;
+        }
+      }
+
+    }
+    .poly {
+      margin: auto;
+      width: 100%;
+      display: flex;
+      .otherLink {
+        background: @lightGreen;
+        width: 200px;
+        height: 50px;
+        a {
+          float: left;
+          img {
+            opacity: 0.8;
+            margin: 14px 0 14px 20px;
+            width: 22px;
+          }
+        }
+      }
+      .current {
+        color: @grey1;
+        background: @white;
+        flex: 1;
+        height: 54px;
+        padding: 15px 18px;
+        border-right: 1px solid @lightGrey;
+        a {
+          text-decoration: none;
+          color: @grey1;
+        }
+      }
+    }
+  }
+
+  .mainContainer {
+    width: 100%;
+    min-height: 700px;
+    margin: auto;
+    margin-bottom: 40px;
+    display: flex;
+    .profile {
+      width: 200px;
+      background: @lightGrey;
+    }
+    .mainList {
+      display: flex;flex-direction:column;
+      border-right: 1px solid @lightGrey;
+      border-bottom: 1px solid @lightGrey;
+      flex: 1;
+      padding-left: 18px;
+      padding-right: 15px;
+      padding-bottom: 20px;
+      .yearList {
+        margin-top: 20px;
+        margin-bottom: 12px;
+        img {
+          position: relative;
+          top: 1px;
+          width: 18px;
+          height: 18px;
+          margin-right: 5px;
+          display: inline-block;
+        }
+        h4 {
+          display: inline-block;
+          color: @dark;
+          font-size: 18px;
+        }
+      }
+      .certainList {
+        border-bottom: 1px solid @borderDark;
+        border-top: 1px solid @borderDark;
+        li {
+          list-style: none;
+          height: 60px;
+          a {
+            margin-top: 18px;
+            margin-bottom: 18px;
+            float: left;
+            font-size: 18px;
+            text-decoration: none;
+          }
+          a:visited {
+            text-decoration: none;
+          }
+          a:hover {
+            color: @lightDark;
+            cursor: pointer;
+          }
+          span {
+            display: none;
+            float: right;
+            margin-top: 22px;
+            margin-bottom: 18px;
+            font-size: 14px;
+            color: @borderDark;
+          }
+          border-bottom: 1px solid @lightGrey;
+          margin: auto;
+          display: block;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 700px) {
+  .header {
+    background: @dark;
+    display: block;
+    height: 212px;
+    .titleList {
+      letter-spacing: 3px;
+      width: 100%;
+      height: 90px;
+      padding-top: 26px;
+      margin: auto;
+      .mainTitle {
+        font-family: "Microsoft YaHei";
+        color: @titleColor;
+        font-weight: 800;
+        margin-right: 20px;
+        margin-left: 20px;
+        font-size: 32px;
+        display: inline-block;
+      }
+      .subTitle {
+        display:none;
+      }
+      .url {
+        margin-left: 20px;
+        margin-top: 3px;
+        letter-spacing: 1px;
+        font-size: 18px;
+        color: @grey1;
+      }
+    }
+
+    .catalog {
+      margin: auto;
+      width: 100%;
+      overflow: hidden;
+      background: @barColor;
+      height: 18px;
+      padding-top: 13px;
+      padding-bottom: 15px;
+      .catalogContainer {
+        position: relative;
+        right: 0;
+        width: 10000px;
+        height: 18px;
+        span {
+          a {
+            color: @grey1;
+            text-decoration: none;
+            webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+          }
+          a:hover {
+            color: @lightGrey;
+            cursor: pointer;
+          }
+          float: left;
+          padding-left: 20px;
+          color: @lightGrey;
+          margin-right: 20px;
+        }
+      }
+
+    }
+    .poly {
+      margin: auto;
+      width: 100%;
+      display: flex;
+      .otherLink {
+        background: @lightGreen;
+        min-width: 150px;
+        height: 50px;
+        a {
+          float: left;
+          img {
+            opacity: 0.8;
+            margin: 14px 0 14px 20px;
+            width: 22px;
+          }
+        }
+      }
+      .current {
+        flex:1;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        color: @grey1;
+        background: @white;
+        height: 54px;
+        padding: 15px 18px;
+        border-right: 1px solid @lightGrey;
+        a {
+          text-decoration: none;
+          color: @grey1;
+        }
+      }
+    }
+  }
+
+  .mainContainer {
+    width: 100%;
+    min-height: 700px;
+    margin: auto;
+    margin-bottom: 40px;
+    display: flex;
+    .profile {
+      display: none;
+      width: 0;
+      background: @lightGrey;
+    }
+    .mainList {
+      width: 100%;
+      display: flex;flex-direction:column;
+      border-right: 1px solid @lightGrey;
+      border-bottom: 1px solid @lightGrey;
+      flex: 1;
+      padding-bottom: 20px;
+      .yearList {
+        margin-top: 20px;
+        margin-bottom: 12px;
+        img {
+          position: relative;
+          top: 1px;
+          width: 18px;
+          height: 18px;
+          margin-right: 5px;
+          display: inline-block;
+        }
+        h4 {
+          display: inline-block;
+          color: @dark;
+          font-size: 18px;
+        }
+      }
+      .certainList {
+        border-bottom: 1px solid @borderLight;
+        border-top: 1px solid @borderLight;
+        li {
+          list-style: none;
+          height: 60px;
+          max-width: 85%;
+          a {
+            margin-top: 18px;
+            margin-bottom: 18px;
+            float: left;
+            font-size: 15px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            text-decoration: none;
+          }
+          a:visited {
+            text-decoration: none;
+          }
+          a:hover {
+            color: @blue;
+            cursor: pointer;
+          }
+          span {
+            display: none;
+            float: right;
+            margin-top: 22px;
+            margin-bottom: 18px;
+            font-size: 14px;
+            color: @borderDark;
+          }
+          border-bottom: 1px solid @lightGrey;
+          margin: auto;
+          display: block;
+        }
+      }
+    }
+  }
+}
+

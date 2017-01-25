@@ -1,0 +1,42 @@
+@import "variable";
+
+
+@media (min-width: 700px) {
+  .footer {
+    width: 100%;
+    p {
+      margin: auto;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      width: 450px;
+      span {
+        color: @grey1;
+        font-size: 13px;
+        margin-right: 5px;
+        display: inline;
+      }
+    }
+  }
+}
+@media (max-width: 700px) {
+  .footer {
+    width: 100%;
+    p {
+      margin: auto;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      width: 200px;
+      font-size: 9px;
+      span {
+        color: @grey1;
+        font-size: 11px;
+        margin-right: 5px;
+        display: inline;
+        a{
+          display: none;
+        }
+      }
+    }
+  }
+
+}
